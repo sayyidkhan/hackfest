@@ -13,8 +13,8 @@ Build a website for **Mosque Tech Challenge** with:
 
 ## 🛇 Tech Stack
 
-**Frontend**: Next.js 15 (App Router) + Tailwind CSS + Shadcn UI
-**Backend**: Next.js API routes or separate Node.js
+**Frontend**: Remix (React) + Tailwind CSS + Shadcn UI
+**Backend**: Remix loaders/actions (fullstack React)
 **Database**: Supabase
 **Authentication (Admin)**: Supabase Auth
 **Deployment**: Cloudflare Pages
