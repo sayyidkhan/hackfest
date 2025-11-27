@@ -57,7 +57,7 @@ export default function Home() {
                 Register on Luma
               </a>
               <div className="text-xs text-slate-300">
-                Next edition coming soon. Stay tuned for dates &amp; venue.
+                More Info coming soon. Stay tuned for dates &amp; venue.
               </div>
             </div>
           </div>
@@ -82,10 +82,10 @@ export default function Home() {
           <div className="space-y-3">
             <h2 className="text-2xl font-semibold">About the Challenge</h2>
             <p className="text-slate-200 text-sm md:text-base">
-              Mosque Tech Challenge is a community initiative to explore how
-              technology can support the work of mosques, asatizah, and youth
-              organisations. Teams prototype ideas over a weekend and present
-              them to a panel of mentors and judges.
+              Mosque Tech Challenge is a community initiative to empower the
+              Muslim community to become confident tech users and builders.
+              Over one weekend, teams explore ideas, learn new tools, and
+              prototype apps together.
             </p>
           </div>
           <div className="grid gap-4 text-sm text-slate-200">
@@ -95,7 +95,7 @@ export default function Home() {
             </div>
             <div className="rounded-2xl border border-slate-800 bg-slate-900/60 p-4">
               <p className="font-semibold text-sky-300">What do we build?</p>
-              <p>Practical tools for event management, knowledge sharing, donation flows, and more.</p>
+              <p>Teams can build web, mobile, software, or hardware projects—anything that fits this year's hackathon theme, which will be revealed at the event.</p>
             </div>
           </div>
         </section>
@@ -107,21 +107,21 @@ export default function Home() {
           <h2 className="text-2xl font-semibold">Event Timeline (Sample)</h2>
           <ol className="grid gap-4 text-sm text-slate-200 md:grid-cols-4">
             <li className="rounded-2xl border border-slate-800 bg-slate-900/60 p-4">
-              <p className="text-xs font-medium text-sky-300">Day 1</p>
-              <p className="mt-1 font-semibold">Kickoff &amp; Ideation</p>
+              <p className="text-xs font-medium text-sky-300">Pre Hackathon</p>
+              <p className="mt-1 font-semibold">Learn, Upskill &amp; Network</p>
               <p className="mt-1 text-xs">
-                Welcome, problem statements, team formation, and idea validation.
+                Join our events prior to the hackathon to learn, upskill, and take the opportunity to network.
+              </p>
+            </li>
+            <li className="rounded-2xl border border-slate-800 bg-slate-900/60 p-4">
+              <p className="text-xs font-medium text-sky-300">Day 1</p>
+              <p className="mt-1 font-semibold">Kickoff, Ideation, Building</p>
+              <p className="mt-1 text-xs">
+                Kickoff the hackathon, form teams, refine ideas, and start building.
               </p>
             </li>
             <li className="rounded-2xl border border-slate-800 bg-slate-900/60 p-4">
               <p className="text-xs font-medium text-sky-300">Day 2</p>
-              <p className="mt-1 font-semibold">Build &amp; Mentoring</p>
-              <p className="mt-1 text-xs">
-                Hands-on building with mentors and checkpoints throughout the day.
-              </p>
-            </li>
-            <li className="rounded-2xl border border-slate-800 bg-slate-900/60 p-4">
-              <p className="text-xs font-medium text-sky-300">Day 3</p>
               <p className="mt-1 font-semibold">Refine &amp; Pitch</p>
               <p className="mt-1 text-xs">
                 Polish your prototype, prepare the pitch, and submit final demo.
